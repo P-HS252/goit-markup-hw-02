@@ -9,16 +9,16 @@ body {
     background-color: #ffffff
 }
 .logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none;
 }
-.logo text {
-    color: #2e2f42;
+.link {
+    text-decoration: none;
 }
 .list {
     list-style: none;
@@ -29,4 +29,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.studio:hover {
+    color: #404bbf;
+}
+.studio:focus {
+    color: #404bbf;
 }
