@@ -36,3 +36,18 @@ body {
 .studio:focus {
     color: #404bbf;
 }
+.address {
+    font-style: normal;
+}
+.postnomb {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.postnomb:hover {
+    color: #404bbf;
+}
+.postnomb:focus {
+    color: #404bbf;
+}
