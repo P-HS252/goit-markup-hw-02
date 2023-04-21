@@ -53,7 +53,7 @@ body {
 .contakt:focus {
     color: #404bbf;
 }
-.onesect {
+.onesection {
     background-color: #2e2f42;
 }
 .onetitle {
@@ -99,4 +99,31 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+.foursection {
+    background-color: #F4F4FD;
+}
+.fourtitle {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team {
+    background-color: #FFFFFF;
+}
+.team-text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
