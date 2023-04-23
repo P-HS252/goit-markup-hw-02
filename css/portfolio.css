@@ -32,4 +32,18 @@ body {
 }
 .menu:focus {
     color: #404bbf;
+}.address {
+    font-style: normal;
+}
+.contakt {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contakt:hover {
+    color: #404bbf;
+}
+.contakt:focus {
+    color: #404bbf;
 }
