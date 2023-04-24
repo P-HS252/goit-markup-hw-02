@@ -63,5 +63,5 @@ body {
 }
 .button:focus {
     color: #FFFFFF;
-    border: #404BBF ;
+    background-color: #404BBF ;
 }
